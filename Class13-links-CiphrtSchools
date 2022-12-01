@@ -1,0 +1,27 @@
+<!DOCTYPE htmi>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0
+<title>Links</title>
+</head>
+<body>
+<a href="https://google.co.in" target="_blank"> Go to google </a> <!--target tag opens link in the other tag -->
+<br>
+<a href=". /pages/thankyou .html" >Thankyou</a>
+</body>
+</html>
+
+<!-- Another website -->
+<!DOCTYPE htm1l>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0
+<title>Document</title>
+</head>
+<body>
+<hl>Thankyou for visiting</h1>
+<a href="../index. html">Index Page</a> <!-- ../ means path is one step backward-->
+</body> I
+</html>
