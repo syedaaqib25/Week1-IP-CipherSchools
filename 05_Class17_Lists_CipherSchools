@@ -1,0 +1,30 @@
+<!DOCTYPE htm1>
+<html lang="en">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lists</title>
+</head>
+<body>
+<ol type="1'>
+pobea5 <2 Ie CTabe)
+<li>Item 2</1i>
+<li>Item 3</1i>
+<li>Item 4</1i>
+</ol>
+
+<ul style=list-style-type: circle;'>
+<li>Item 1</li>
+<li>Item 2</1i>
+<li>Item 3</li>
+<li>Item 4</1li>
+</ul>
+
+<dl>
+
+</dl><dt>Guitar</dt>
+<dd>Guitar is 6 string instrument</dd>
+<dt>Ukulele</dt>
+<dd>Ukulele is 4 string instrument</dd>
+</dl>
+</body>
+</html>
