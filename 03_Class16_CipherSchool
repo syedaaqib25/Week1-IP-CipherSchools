@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+Set eset ed
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Images</title>
+</head>
+<body>
+<!-- <img src="./boy.jpg” alt="A cute little boy playing"> -->
+<!-- <img src="https://source.unsplash.com/random/600x400" alt=""> -->
+<img src="https://source.unsplash.com/90x600/?nature” alt="This is nature image">]
+</body>
+</html>
